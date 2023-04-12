@@ -12,8 +12,8 @@ This is a program that can simulation dice rolls.
 3. Run `main.pyw`
 ## Requirements
 - Python 3.7
-- Python tkinter library
-- Python random library
+- Python `tkinter` library
+- Python `random` library
 ## Usage
 You can change dice settings using this section :
 
